@@ -18,5 +18,5 @@ To get started with the investment calculator, clone this repository and install
 # Usage
 To start the development server and see the application in action, run:
 
-`npm run start`
+`npm run dev`
 This will start the development server at http://localhost:5173. Open this URL in your web browser to use the calculator.
